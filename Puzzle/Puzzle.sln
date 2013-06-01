@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGame", "PuzzleGame\PuzzleGame\PuzzleGame.csproj", "{CD8E063B-1822-42CA-9672-C340AE3768C6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PuzzleGameContent", "PuzzleGame\PuzzleGameContent\PuzzleGameContent.contentproj", "{6E8A38D2-8308-4A78-A8AE-7A71A816AABA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs12
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PuzzleGame\\PuzzleGame\\PuzzleGame.csproj
+		SccProjectName1 = PuzzleGame/PuzzleGame
+		SccLocalPath1 = PuzzleGame\\PuzzleGame
+		SccProjectUniqueName2 = PuzzleGame\\PuzzleGameContent\\PuzzleGameContent.contentproj
+		SccProjectName2 = PuzzleGame/PuzzleGameContent
+		SccLocalPath2 = PuzzleGame\\PuzzleGameContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8E063B-1822-42CA-9672-C340AE3768C6}.Debug|x86.ActiveCfg = Debug|x86
+		{CD8E063B-1822-42CA-9672-C340AE3768C6}.Debug|x86.Build.0 = Debug|x86
+		{CD8E063B-1822-42CA-9672-C340AE3768C6}.Release|x86.ActiveCfg = Release|x86
+		{CD8E063B-1822-42CA-9672-C340AE3768C6}.Release|x86.Build.0 = Release|x86
+		{6E8A38D2-8308-4A78-A8AE-7A71A816AABA}.Debug|x86.ActiveCfg = Debug|x86
+		{6E8A38D2-8308-4A78-A8AE-7A71A816AABA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
